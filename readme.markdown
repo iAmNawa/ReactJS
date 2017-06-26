@@ -1,3 +1,3 @@
 #ReactJS
 
-I will be posting some react projects here.
+This is an app made with React that uses the YouTube API to search for videos.
